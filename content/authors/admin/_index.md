@@ -31,7 +31,7 @@ bio: "Unveiling the journey: From Montana's landscapes to crafting dreams - the 
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:jon@servicemontana.com
+    url: 'mailto:jon@servicemontana.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/ohgeecee
