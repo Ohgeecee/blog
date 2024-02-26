@@ -5,7 +5,7 @@ hide_date: true
 reading_time: false
 ---
 
-### Welcome to my corner of the web! I'm Jon Currie, a proud entrepreneur and dedicated professional with a passion for both landscaping and law enforcement.
+ Welcome to my corner of the web! [b]I'm Jon Currie[/b], a proud entrepreneur and dedicated professional with a passion for both landscaping and law enforcement.
 
 # From Landscaping to Law: A Journey of Purpose
 

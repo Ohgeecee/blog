@@ -1,9 +1,9 @@
 ---
 # Display name
-title: ohgeecee
+title: Jon Currie
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ohgeecee
 
 # Full name (for SEO)
 first_name: Jon 
