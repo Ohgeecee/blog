@@ -5,9 +5,9 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Topics
-    url: tags/
+  - name: Checklists
+    url: checklists/
     weight: 20
-  - name: Uses
+  - name: Biography
     url: uses/
     weight: 30
