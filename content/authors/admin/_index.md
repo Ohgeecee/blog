@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Jon Currie
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jon Currie
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jon 
+last_name: Currie
 
 # Status emoji
 status:
@@ -17,26 +17,26 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Contractor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Service Montana
+    url: https://www.servicemontana.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Unveiling the journey: From Montana's landscapes to crafting dreams - the story of a contractor shaping Northwest Montana, one project at a time."
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jon@servicemontana.com
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/ohgeecee
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/ohgeecee
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
@@ -51,9 +51,5 @@ profiles:
 highlight_name: true
 
 # Author's website URL
-website: ""
+website: "servicemontana.com"
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
